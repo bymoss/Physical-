@@ -1,0 +1,17 @@
+.idea/
+__pychache__/
+checkpoints/
+data/
+edge_results/
+model/
+model_5fold/
+moedl_student/
+model_teacher/
+processed/
+student_kd_ckpt/
+student_kd_finetune_ckpt/
+teacher_checkpoints/
+teacher_trin_only_ckpt/
+*.pth
+*.csv
+*.png
